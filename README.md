@@ -39,6 +39,12 @@
 
 ---
 
+## 💼 Destaques
+
+### 🔗 [TaskMaster-JS](https://github.com/JulioOEBoy/TaskMaster-JS)  
+
+---
+
 ### 🐍 Snake Game – Minhas contribuições como comida de progresso 🍎
 
 ![snake gif](https://github.com/JulioOEboy/JulioOEboy/blob/output/github-contribution-grid-snake.svg)

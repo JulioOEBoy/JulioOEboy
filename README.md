@@ -39,7 +39,7 @@
 
 ### 🐍 Snake Game – Minhas contribuições como comida de progresso 🍎
 
-![snake gif](https://github.com/jcpcgame8/jcpcgame8/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JulioOEboy/JulioOEboy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

@@ -43,21 +43,6 @@
 
 ![snake gif](https://github.com/JulioOEboy/JulioOEboy/blob/output/github-contribution-grid-snake.svg)
 
----
-
-### ✨ Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|--------------|
-| [MeuPythonMundo](https://github.com/jcpcgame8/MeuPythonMundo) | Atividades do curso em vídeo e mais. | Python, lógica, terminal |
-## 🚀 Projetos Mini JavaScript
-
-- [Calculadora IMC](./HTMLProject/imc-calculator.html)
-- [Lista de Tarefas](./HTMLProject/taskmaster-js/index.html)
-- [Contador Inteligente](./HTMLProject/smart-counter.html)
-
-
----
 
 ### 🌐 Vamos nos conectar?
 

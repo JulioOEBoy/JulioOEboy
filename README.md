@@ -47,7 +47,7 @@
 ### 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://github.com/jcpcgame8"><img src="https://img.shields.io/badge/GitHub-jcpcgame8-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/JulioOEboy"><img src="https://img.shields.io/badge/GitHub-JulioOEboy-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:jcpcgame8@gmail.com"><img src="https://img.shields.io/badge/Email-jcpcgame8@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.instagram.com/juulio_c3sar/"><img src="https://img.shields.io/badge/Instagram-@juulio_c3sar-E4405F?style=for-the-badge&logo=instagram" /></a>
   <a href="https://www.linkedin.com/in/júlio-césar-ferreira-pedrini-176ba5271/"><img src="https://img.shields.io/badge/LinkedIn-Júlio César-0A66C2?style=for-the-badge&logo=linkedin" /></a>

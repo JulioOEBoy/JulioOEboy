@@ -1,6 +1,6 @@
 <!-- readme especial do juliooeboy -->
 
-<h1 align="center">𝑬𝒊, 𝒆𝒖 𝒔𝒐𝒖 𝐉𝐮́𝐥𝐢𝐨 César 👋</h1>
+<h1 align="center">𝑬𝒊, 𝒆𝒖 𝒔𝒐𝒖 𝐉𝐮́𝐥𝐢𝐨 César Ferreira Pedrini👋</h1>
 
 ---
 

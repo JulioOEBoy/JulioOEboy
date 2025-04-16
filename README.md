@@ -41,9 +41,11 @@
 
 ## 💼 Destaques
 
-### 🔗 [TaskMaster-JS](https://github.com/JulioOEBoy/TaskMaster-JS)  
-
+🔗 TaskMaster-JS
 https://codepen.io/JulioOEBoy/pen/qEBzqov
+
+🧙‍♂️ Hogwarts Sorting Hat (Python)
+Um quiz interativo no terminal que te coloca dentro do universo de Harry Potter, decidindo sua casa de Hogwarts com base nas suas escolhas e... talvez um pouco de feitiçaria 👀✨
 
 ---
 

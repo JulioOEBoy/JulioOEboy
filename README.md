@@ -1,55 +1,64 @@
-<!-- readme especial do juliooeboy -->
+<!-- readme especial de JulioOEboy -->
 
-<h1 align="center">𝑬𝒊, 𝒆𝒖 𝒔𝒐𝒖 𝐉𝐮́𝐥𝐢𝐨 César Ferreira Pedrini. 👋</h1>
-
----
-
-🛸 Dev em formação, mas com o código apontado pro hiperespaço  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — com foco, não pressa  
-💡 Acredito que boas ideias não precisam gritar: elas persistem  
-📚 Aprendizado contínuo, testes limpos e um editor de texto aberto na madrugada  
-
-> *"Não é sobre ter todas as respostas, é sobre saber onde procurar."*  
-> (E sim, talvez eu tenha assistido Star Wars demais pra achar que isso é normal.)
+<h1 align="center">𝐄𝐢, 𝐞𝐮 𝐬𝐨𝐮 𝐉𝐮́𝐥𝐢𝐨 César Ferreira Pedrini 👋</h1>
 
 ---
 
-### 🧰 Skills & Ferramentas
+🧭 Navegando entre códigos e conceitos, sempre com o terminal aberto e o café esfriando na mesa.
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | Universidade de Vassouras  
+💡 Dev em formação, mas com curiosidade em produção desde o primeiro "print('Hello, World!')"
+
+📚 Foco em Python, Web (HTML/CSS/JS) e Banco de Dados.  
+🛠️ Explorando FastAPI, Git, GitHub, SQL e aquela eterna luta com o Bash.
+
+> *"Não saber é temporário. Googlar é eterno."*  
+> (E talvez eu veja Star Wars mais vezes do que o recomendado.)
+
+---
+
+### 🚀 Tecnologias que venho explorando:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL (MySQL)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Um pouco da minha movimentação por aqui:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JulioOEboy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioOEboy&layout=compact&theme=tokyonight" alt="Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioOEboy&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-## 💼 Destaques
+### 📌 Alguns projetos que gosto de destacar:
 
-<p> 🔗 <a href="https://codepen.io/JulioOEBoy/pen/qEBzqov" target="_blank">TaskMaster-JS (CodePen)</a><br> 🧙‍♂️ <a href="https://github.com/JulioOEBoy/hogwarts-sorting-hat/blob/main/hogwarts-sorting-hat.py" target="_blank">Hogwarts Sorting Hat (Python)</a><br> <em>Um quiz interativo no terminal que te coloca dentro do universo de Harry Potter, decidindo sua casa de Hogwarts com base nas suas escolhas e... talvez um pouco de feitiçaria 👀✨</em> </p>
+- 🧙‍♂️ [**Hogwarts Sorting Hat (Python)**](https://github.com/JulioOEBoy/hogwarts-sorting-hat/blob/main/hogwarts-sorting-hat.py)  
+Um quiz terminal style que mistura lógica condicional e um pouquinho de magia (ou random.choice mesmo kkk).
+
+- ✅ [**TaskMaster-JS (CodePen)**](https://codepen.io/JulioOEBoy/pen/qEBzqov)  
+Pequeno projeto de front-end, mas com aquele toque de organização que todo dev sonha ter na vida real.
+
 ---
 
-### 🐍 Snake Game – Minhas contribuições como comida de progresso 🍎
+### 🐍 Snake Game — Quando meu histórico de commits vira entretenimento visual 🍎
 
 ![snake gif](https://github.com/JulioOEboy/JulioOEboy/blob/output/github-contribution-grid-snake.svg)
 
+---
 
-### 🌐 Vamos nos conectar?
+### 🌍 Onde me encontrar por aí:
 
 <p align="center">
   <a href="https://github.com/JulioOEboy"><img src="https://img.shields.io/badge/GitHub-JulioOEboy-181717?style=for-the-badge&logo=github" /></a>
@@ -60,10 +69,9 @@
 
 ---
 
-“🕯️ Às vezes, a luz que guia o caminho não faz barulho... mas continua ali.”
+🕯️ Às vezes o código não compila, o push dá conflito, e a vida parece um loop infinito. Mas faz parte.  
+Obrigado por ter passado por aqui! 👨‍💻
 
 ---
-
-#### ✨ Obrigado por passar aqui. Um repositório pode parecer código, mas às vezes é só um jeito de dizer: eu estive aqui.
 
 

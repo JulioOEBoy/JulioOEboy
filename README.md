@@ -1,23 +1,23 @@
-<!-- readme especial de JulioOEboy -->
+<!-- Perfil GitHub de JulioOEboy -->
 
-<h1 align="center">𝐄𝐢, 𝐞𝐮 𝐬𝐨𝐮 𝐉𝐮́𝐥𝐢𝐨 César Ferreira Pedrini 👋</h1>
+<h1 align="center">𝐉𝐮́𝐥𝐢𝐨 𝐂𝐞́𝐬𝐚𝐫 𝐅𝐞𝐫𝐫𝐞𝐢𝐫𝐚 𝐏𝐞𝐝𝐫𝐢𝐧𝐢 👋</h1>
 
----
-
-🧭 Navegando entre códigos e conceitos, sempre com o terminal aberto e o café esfriando na mesa.
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | Universidade de Vassouras  
-💡 Dev em formação, mas com curiosidade em produção desde o primeiro "print('Hello, World!')"
-
-📚 Foco em Python, Web (HTML/CSS/JS) e Banco de Dados.  
-🛠️ Explorando FastAPI, Git, GitHub, SQL e aquela eterna luta com o Bash.
-
-> *"Não saber é temporário. Googlar é eterno."*  
-> (E talvez eu veja Star Wars mais vezes do que o recomendado.)
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | Foco em evolução contínua</p>
 
 ---
 
-### 🚀 Tecnologias que venho explorando:
+### 🧭 Sobre mim
+
+Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com interesse crescente nas áreas de **desenvolvimento back-end**, **banco de dados** e **automação de processos**.
+
+Gosto de entender o funcionamento por trás das soluções e estou sempre buscando escrever um código mais limpo, funcional e fácil de manter.
+
+Além da programação, valorizo muito a organização e a clareza na forma como compartilho projetos.  
+Acredito que o aprendizado de um desenvolvedor vai muito além da linguagem usada: envolve lógica, boas práticas e uma curiosidade que nunca para.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -33,7 +33,17 @@
 
 ---
 
-### 📈 Um pouco da minha movimentação por aqui:
+### 📌 Projetos em destaque
+
+- 🧙‍♂️ [**Hogwarts Sorting Hat (Python)**](https://github.com/JulioOEBoy/hogwarts-sorting-hat/blob/main/hogwarts-sorting-hat.py)  
+Um quiz interativo no terminal, inspirado no universo de Harry Potter. Projeto simples, mas que explora bem listas, dicionários e lógica condicional.
+
+- ✅ [**TaskMaster-JS (CodePen)**](https://codepen.io/JulioOEBoy/pen/qEBzqov)  
+Ferramenta web minimalista para gerenciamento de tarefas. Projeto focado em manipulação de DOM com JavaScript.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JulioOEboy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -42,23 +52,15 @@
 
 ---
 
-### 📌 Alguns projetos que gosto de destacar:
+### 🐍 Snake - Visualizando meu histórico de contribuições
 
-- 🧙‍♂️ [**Hogwarts Sorting Hat (Python)**](https://github.com/JulioOEBoy/hogwarts-sorting-hat/blob/main/hogwarts-sorting-hat.py)  
-Um quiz terminal style que mistura lógica condicional e um pouquinho de magia (ou random.choice mesmo kkk).
-
-- ✅ [**TaskMaster-JS (CodePen)**](https://codepen.io/JulioOEBoy/pen/qEBzqov)  
-Pequeno projeto de front-end, mas com aquele toque de organização que todo dev sonha ter na vida real.
+<p align="center">
+  <img src="https://github.com/JulioOEboy/JulioOEboy/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 ---
 
-### 🐍 Snake Game — Quando meu histórico de commits vira entretenimento visual 🍎
-
-![snake gif](https://github.com/JulioOEboy/JulioOEboy/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🌍 Onde me encontrar por aí:
+### 🌐 Onde me encontrar
 
 <p align="center">
   <a href="https://github.com/JulioOEboy"><img src="https://img.shields.io/badge/GitHub-JulioOEboy-181717?style=for-the-badge&logo=github" /></a>
@@ -69,9 +71,12 @@ Pequeno projeto de front-end, mas com aquele toque de organização que todo dev
 
 ---
 
-🕯️ Às vezes o código não compila, o push dá conflito, e a vida parece um loop infinito. Mas faz parte.  
-Obrigado por ter passado por aqui! 👨‍💻
+### 📌 Considerações finais
+
+Cada projeto aqui é uma fotografia de uma fase do meu aprendizado.  
+Se eu ainda não sei algo, com certeza estou no caminho de aprender.
+
+Obrigado por visitar!
 
 ---
-
 

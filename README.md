@@ -20,9 +20,11 @@
 
 ### 🧭 Sobre mim
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com interesse crescente nas áreas de **desenvolvimento back-end**, **banco de dados** e **automação de processos**.  
+Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com interesse crescente em **desenvolvimento back-end**, **banco de dados** e **automação de processos**.  
 
-Sou apaixonado por entender como as coisas funcionam por trás das soluções e sempre busco escrever código limpo, funcional e de fácil manutenção.
+Sou apaixonado por entender como as coisas funcionam por trás das soluções, sempre escrevendo código limpo — porque, assim como o Snake, às vezes é preciso passar despercebido entre bugs e commits bagunçados.  
+
+> ⚠️ Missão principal: transformar linhas de código em operações furtivas de sucesso. Código sujo detectado? Time to *CQC* nele! 😉
 
 ---
 
@@ -44,11 +46,13 @@ Sou apaixonado por entender como as coisas funcionam por trás das soluções e 
 
 ### 📌 Projetos em destaque
 
-- 🧙‍♂️ [**Hogwarts Sorting Hat (Python)**](https://github.com/JulioOEBoy/hogwarts-sorting-hat/blob/main/hogwarts-sorting-hat.py)  
-Um quiz interativo no terminal, inspirado no universo de Harry Potter.
+- 🧙♂️ [**Hogwarts Sorting Hat (Python)**](https://github.com/JulioOEBoy/hogwarts-sorting-hat/blob/main/hogwarts-sorting-hat.py)  
+Um quiz interativo no terminal, inspirado no universo de Harry Potter.  
+> Aqui a lógica é mais furtiva que Snake infiltrando em Outer Heaven.
 
 - ✅ [**TaskMaster-JS (CodePen)**](https://codepen.io/JulioOEBoy/pen/qEBzqov)  
-Ferramenta web minimalista para gerenciamento de tarefas.
+Ferramenta web minimalista para gerenciamento de tarefas.  
+> Automação estratégica, como planejar cada passo antes de entrar em um prédio cheio de guardas.
 
 ---
 
@@ -67,6 +71,8 @@ Ferramenta web minimalista para gerenciamento de tarefas.
   <img src="https://github.com/JulioOEboy/JulioOEboy/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+> Cada commit é como um passo silencioso: se ninguém viu, é missão cumprida.  
+
 ---
 
 ### 📌 Considerações finais
@@ -74,4 +80,5 @@ Ferramenta web minimalista para gerenciamento de tarefas.
 Cada projeto aqui é uma fotografia de uma fase do meu aprendizado.  
 Se eu ainda não sei algo, com certeza estou no caminho de aprender.  
 
-Obrigado por visitar!
+> Lembre-se: “War has changed… but clean code remains.”  
+Obrigado por visitar! 👊

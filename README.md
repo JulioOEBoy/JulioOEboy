@@ -1,19 +1,28 @@
 <!-- Perfil GitHub de JulioOEboy -->
 
 <h1 align="center">𝐉𝐮́𝐥𝐢𝐨 𝐂𝐞́𝐬𝐚𝐫 𝐅𝐞𝐫𝐫𝐞𝐢𝐫𝐚 𝐏𝐞𝐝𝐫𝐢𝐧𝐢 👋</h1>
+<p align="center"><b>Estudante de Análise e Desenvolvimento de Sistemas</b></p>
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas</p>
+---
+
+<p align="center">
+  <img src="Snakeprogramador.png" alt="Snake programador lendo Clean Code" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JulioOEboy"><img src="https://img.shields.io/badge/GitHub-JulioOEboy-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:jcpcgame8@gmail.com"><img src="https://img.shields.io/badge/Email-jcpcgame8@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.instagram.com/juulio_c3sar/"><img src="https://img.shields.io/badge/Instagram-@juulio_c3sar-E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.linkedin.com/in/júlio-césar-ferreira-pedrini-176ba5271/"><img src="https://img.shields.io/badge/LinkedIn-Júlio César-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
 ### 🧭 Sobre mim
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com interesse crescente nas áreas de **desenvolvimento back-end**, **banco de dados** e **automação de processos**.
+Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com interesse crescente nas áreas de **desenvolvimento back-end**, **banco de dados** e **automação de processos**.  
 
-Gosto de entender o funcionamento por trás das soluções e estou sempre buscando escrever um código mais limpo, funcional e fácil de manter.
-
-Além da programação, valorizo muito a organização e a clareza na forma como compartilho projetos.  
-Acredito que o aprendizado de um desenvolvedor vai muito além da linguagem usada: envolve lógica, boas práticas e uma curiosidade que nunca para.
+Sou apaixonado por entender como as coisas funcionam por trás das soluções e sempre busco escrever código limpo, funcional e de fácil manutenção.
 
 ---
 
@@ -36,10 +45,10 @@ Acredito que o aprendizado de um desenvolvedor vai muito além da linguagem usad
 ### 📌 Projetos em destaque
 
 - 🧙‍♂️ [**Hogwarts Sorting Hat (Python)**](https://github.com/JulioOEBoy/hogwarts-sorting-hat/blob/main/hogwarts-sorting-hat.py)  
-Um quiz interativo no terminal, inspirado no universo de Harry Potter. Projeto simples, mas que explora bem listas, dicionários e lógica condicional.
+Um quiz interativo no terminal, inspirado no universo de Harry Potter.
 
 - ✅ [**TaskMaster-JS (CodePen)**](https://codepen.io/JulioOEBoy/pen/qEBzqov)  
-Ferramenta web minimalista para gerenciamento de tarefas. Projeto focado em manipulação de DOM com JavaScript.
+Ferramenta web minimalista para gerenciamento de tarefas.
 
 ---
 
@@ -60,23 +69,9 @@ Ferramenta web minimalista para gerenciamento de tarefas. Projeto focado em mani
 
 ---
 
-### 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="https://github.com/JulioOEboy"><img src="https://img.shields.io/badge/GitHub-JulioOEboy-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:jcpcgame8@gmail.com"><img src="https://img.shields.io/badge/Email-jcpcgame8@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.instagram.com/juulio_c3sar/"><img src="https://img.shields.io/badge/Instagram-@juulio_c3sar-E4405F?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://www.linkedin.com/in/júlio-césar-ferreira-pedrini-176ba5271/"><img src="https://img.shields.io/badge/LinkedIn-Júlio César-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
----
-
 ### 📌 Considerações finais
 
 Cada projeto aqui é uma fotografia de uma fase do meu aprendizado.  
-Se eu ainda não sei algo, com certeza estou no caminho de aprender.
+Se eu ainda não sei algo, com certeza estou no caminho de aprender.  
 
 Obrigado por visitar!
-
----
-

@@ -22,7 +22,7 @@
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas**, com interesse crescente em **desenvolvimento back-end**, **banco de dados** e **automação de processos**.  
 
-Sou apaixonado por entender como as coisas funcionam por trás das soluções, sempre escrevendo código limpo — porque, assim como o Snake, às vezes é preciso passar despercebido entre bugs e commits bagunçados.  
+Sou apaixonado por entender como as coisas funcionam por trás das soluções, sempre escrevendo código limpo porque, assim como o Snake, às vezes é preciso passar despercebido entre bugs e commits bagunçados.  
 
 > ⚠️ Missão principal: transformar linhas de código em operações furtivas de sucesso. Código sujo detectado? Time to *CQC* nele! 😉
 

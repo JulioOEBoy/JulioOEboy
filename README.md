@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="Snakeprogramador.png" alt="Snake programador lendo Clean Code" width="600"/>
+  <img src="snakevidcortado.gif" alt="Snake programador lendo Clean Code" width="600"/>
 </p>
 
 <p align="center">

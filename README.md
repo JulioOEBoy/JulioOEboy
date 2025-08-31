@@ -1,7 +1,7 @@
 <!-- Perfil GitHub de JulioOEboy -->
 
 <h1 align="center">𝐉𝐮́𝐥𝐢𝐨 𝐂𝐞́𝐬𝐚𝐫 𝐅𝐞𝐫𝐫𝐞𝐢𝐫𝐚 𝐏𝐞𝐝𝐫𝐢𝐧𝐢 👋</h1>
-<p align="center"><b>Estudante de Análise e Desenvolvimento de Sistemas</b></p>
+<p align="center"><b>Graduando em Análise e Desenvolvimento de Sistemas</b></p>
 
 ---
 

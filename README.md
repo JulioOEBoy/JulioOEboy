@@ -16,7 +16,7 @@
 :---:::::-=++====-::::-=-=-.::  Hobbies: ..... Clean Code, MGS
 :-:::::::=#%%%%###++==+=-+*=:.
 ::::::::::=#***+#%%%##=-*%@%*-  Email: ....... juliocesarpedrini@gmail.com
-. .:::::--:+%%#%%@@%*+*@@@@%%%  LinkedIn: .... [/in/julio-cesar-pedrini](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-ferreira-pedrini-176ba5271/)
+. .:::::--:+%%#%%@@%*+*@@@@%%%  LinkedIn: .... https://www.linkedin.com/in/júlio-césar-ferreira-pedrini-176ba5271/
 :. .:----::*@@@##*##%@@@@@@%%#  Instagram: ... @juulio_c3sar
 --.  .:-::-%@@#+##@@@@@@@@@%%%
 ---:. .::-#@@@%#@@@@@@@@@@@%%%  GitHub Stats

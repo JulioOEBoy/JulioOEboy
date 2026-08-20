@@ -52,12 +52,7 @@ Sou apaixonado por entender como as coisas funcionam por trás das soluções, s
   Ferramenta web minimalista para gerenciamento de tarefas. Automação estratégica, como planejar cada passo antes de entrar em um prédio cheio de guardas.
 
 ---
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioOEBoy&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioOEBoy&layout=compact&theme=tokyonight)
-
+# ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=JulioOEBoy&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JulioOEBoy&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
 ---
 
 ### 🐍 Snake — Visualizando meu histórico de contribuições
